@@ -1,4 +1,4 @@
-# Inventory Management System — Mini Project 3
+# Inventory Management System 
 
 Aplikasi inventaris sederhana menggunakan PHP native dan MySQL untuk XAMPP.
 
